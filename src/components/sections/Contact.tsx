@@ -36,11 +36,11 @@ export default function Contact() {
                 </div>
                 <span className="text-lg font-medium">WhatsApp Me</span>
               </a>
-              <a href="https://instagram.com/we_developers82" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-pink-400 transition-colors group w-fit">
+              <a href="https://www.instagram.com/_aayushwebstudio?igsh=cXFnZmxndnpwYTh3&utm_source=qr" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-pink-400 transition-colors group w-fit">
                 <div className="w-12 h-12 rounded-full glass flex items-center justify-center group-hover:bg-pink-500/20 transition-colors">
                   <Camera size={20} />
                 </div>
-                <span className="text-lg font-medium">@we_developers82</span>
+                <span className="text-lg font-medium">@_aayushwebstudio</span>
               </a>
             </div>
           </div>

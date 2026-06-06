@@ -6,20 +6,6 @@ import TiltCard from "../ui/TiltCard";
 
 const projects = [
   {
-    title: "Premium Supplement Store",
-    category: "E-Commerce",
-    image: "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?auto=format&fit=crop&q=80&w=1280",
-    tech: ["React", "Netlify", "Tailwind"],
-    link: "https://sweet-zabaione-9e764f.netlify.app/"
-  },
-  {
-    title: "Electrical Shop",
-    category: "Landing Page",
-    image: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=1280",
-    tech: ["React", "CSS", "Vite"],
-    link: "https://verdant-horse-ba3da3.netlify.app/"
-  },
-  {
     title: "Wallnova 4K",
     category: "Wallpaper App",
     image: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=1280",
@@ -27,11 +13,32 @@ const projects = [
     link: "https://wallnova-sigma.vercel.app/"
   },
   {
-    title: "Gym Landing Page",
-    category: "Landing Page",
+    title: "Loomba Clinic",
+    category: "Healthcare",
+    image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=1280",
+    tech: ["React", "Next.js", "Vercel"],
+    link: "https://loomba-clinic.vercel.app/"
+  },
+  {
+    title: "D3 Fitness",
+    category: "Fitness",
     image: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&q=80&w=1280",
-    tech: ["React", "CSS Modules", "Vite"],
-    link: "https://luxury-banoffee-b84243.netlify.app/"
+    tech: ["React", "Tailwind", "Vercel"],
+    link: "https://d3-fitness.vercel.app/"
+  },
+  {
+    title: "Hotel Ten Jade",
+    category: "Hospitality",
+    image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=1280",
+    tech: ["Next.js", "React", "Vercel"],
+    link: "https://hotel-ten-jade.vercel.app/"
+  },
+  {
+    title: "AK Fitness",
+    category: "Fitness",
+    image: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=1280",
+    tech: ["React", "Vite", "Vercel"],
+    link: "https://ak-fitness-nine.vercel.app/"
   }
 ];
 

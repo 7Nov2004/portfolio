@@ -39,6 +39,13 @@ const projects = [
     image: "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?auto=format&fit=crop&q=80&w=1280",
     tech: ["React", "Vite", "Vercel"],
     link: "https://ak-fitness-nine.vercel.app/"
+  },
+  {
+    title: "Jagran",
+    category: "Web Application",
+    image: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&q=80&w=1280",
+    tech: ["Web Development", "Vercel"],
+    link: "https://jagran1.vercel.app/"
   }
 ];
 
